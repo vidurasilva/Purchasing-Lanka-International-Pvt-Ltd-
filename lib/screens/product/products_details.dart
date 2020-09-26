@@ -399,7 +399,7 @@ class _ProductDetailsState extends State<ProductDetails> {
                                   widget.productDetailsAttributes[i + 1]
                                       ['options'] = [attributesOption[i][j]];
                                 },
-                              )
+                              ),
                           ])
                     ],
                   ),
