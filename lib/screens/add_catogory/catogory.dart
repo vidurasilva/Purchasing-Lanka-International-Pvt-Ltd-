@@ -31,8 +31,8 @@ class _CatogoryPageState extends State<CatogoryPage> {
       'img': 'assets/catogory/vegetables.jpg',
     },
     {
-      'title': 'Brooms',
-      'img': 'assets/catogory/brooms.jpg',
+      'title': 'Stationery',
+      'img': 'assets/catogory/stationery.jpg',
     },
     {
       'title': 'Electronics',
