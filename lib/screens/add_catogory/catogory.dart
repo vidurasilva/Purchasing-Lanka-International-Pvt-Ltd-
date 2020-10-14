@@ -39,7 +39,7 @@ class _CatogoryPageState extends State<CatogoryPage> {
       'img': 'assets/catogory/electronics.jpg',
     },
     {
-      'title': 'Other Item',
+      'title': 'Other Items',
       'img': 'assets/catogory/house.jpg',
     },
   ];
